@@ -1,5 +1,5 @@
-//music.startMelody(music.builtInMelody(Melodies.Dadadadum), MelodyOptions.Once);
-//basic.pause(3000);
+music.startMelody(music.builtInMelody(Melodies.Dadadadum), MelodyOptions.Once);
+basic.pause(3000);
 // initialisation des variables
 let enemyY = 0;
 let random2 = 0;
